@@ -25,3 +25,5 @@ while 1:
     speaker.Speak(s)
 
 ================ Code is end Here ================='''
+
+# 
